@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 22,
+  "agentName": "test_runner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/NsTO0HabFufpMepcaRUiSBzB1UhIKnxjWHi3Dv97jjnGJzL0Ub",
+  "gitHubUrl": "https://github.com/karsengw/workflow-test",
+  "workFolder": "_work"
+}
